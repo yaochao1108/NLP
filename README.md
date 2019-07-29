@@ -1,4 +1,4 @@
-tensorflow == 2.0.0 b1
+tensorflow == 2.0.0-beta1
 # 二分类
 1  
 2
